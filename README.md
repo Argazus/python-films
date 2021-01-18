@@ -40,4 +40,4 @@ Evaluation
  - PEP8 format is required
  - Doctrings are mandatory
 
-![This is the way](https://gph.is/g/466oY0M)
+![This is the way](https://media.giphy.com/media/7nTiW8rZymfJJLT8OE/giphy.gif)
