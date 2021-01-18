@@ -3,7 +3,7 @@ Python - Parsing a JSON file
 
 Subject
 ==
-Here enclose, in this repository are 4 files if interest : 
+Here enclosed, in this repository are 4 files of interest : 
  - **film.JSON :** A flat file, in JSON format, containing a list of films
  - **test_file_manager.py :** A file executed when you run the tests. This file is interesting for you as it specifies the tests that are executed and il also specifies the results expected. The only modification you are meant to realise in this file is commenting the `self.skipTest`lines.
  - **film_manager.py :** This is were you will write your code
@@ -22,15 +22,15 @@ Here enclose, in this repository are 4 files if interest :
  Running a test
  ==
 
- In this repository, we are using python and it's tests library : unittest. 
+ In this repository, we are using python and it's test library : unittest. 
  You can find some documentation [here](https://docs.python.org/3/library/unittest.html)
 
 Exercise
 ==
+- Fork, then clone this repository. 
 - One by one, validate the tests written 
-- Clone this repository. 
-- Complete the code in order to complete each tests. 
-- Do not forget to commit regularly. 
+- Complete the code in order to validate each tests. 
+- Do not forget to commit after each successful test. 
 - Realise a merge request in the end of the day. 
 
 Evaluation
@@ -39,3 +39,5 @@ Evaluation
  - Clean code is the way
  - PEP8 format is required
  - Doctrings are mandatory
+
+![This is the way](https://gph.is/g/466oY0M)
